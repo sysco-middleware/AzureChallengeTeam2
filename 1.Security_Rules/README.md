@@ -1,5 +1,3 @@
-# AzureChallengeTeam2
-
 # Terraform
 
 
